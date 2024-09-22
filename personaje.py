@@ -1,5 +1,5 @@
 import pygame
-from games.game_2 import constantes
+import constantes
 
 
 class Personaje():
