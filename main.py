@@ -1,4 +1,4 @@
-from games.game_2 import constantes
+import constantes
 from personaje import Personaje
 import pygame
 
